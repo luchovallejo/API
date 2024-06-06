@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "nombre": "Alex",
+        "apellido": "Obrador",
+        "telefono": "3228462701"
+    },
+    {
+        "id": "2",
+        "nombre": "Estefani",
+        "apellido": "Castillo",
+        "telefono": "3219822605"
+    }
+]
